@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;}
+.sidebar{
+    border: 0.2rem solid #17468dcc;;
+    border-radius: 0.8rem;
+}
+.id_name{
+    font-weight: bolder;
+    color:#17468dcc
+}
+.id_name_span{
+    font-weight: bolder;
+    color:#17468dcc
+}
+.headings-bold{
+    font-weight: bolder;
+}
+.main-container{
+    height: 93vh;
+    display: grid;
+    width: 120vh;
+    margin-inline: auto;
+    margin-top: 1rem;
+    box-shadow: 0px 2px 8px 0px #17468dcc;
+    padding: 0.4rem;
+    border-radius: 0.8rem;
+}
+.modal-header{
+    background: #17468dcc;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+}
+.modal-header .btn-close{
+    font-size: bolder;
+    color: white;
+}
+.modal-create__button{
+    float: right;
+    margin-top: 1.5rem;
+    background: #17468dcc;
+}
+.conversation-list {
+    font-weight: bolder;
+    background: #17468d8c;
+    color:white;
+}
+.contact-list {
+    font-weight: bolder;
+    background: #17468dcc;
+    color:white;
+}
+.list-group-item.active{
+    background: #17468dcc;
+}
+.new-buttons{
+    background: #17468dcc;
+    margin: 0.5rem;
+    border-radius: 0.8rem;
+    border:none;
+}
+.nav-tabs .nav-link{
+    color:#17468dcc;
+}
+.nav-tabs{
+    background: #456ba4;
+    border: none;
+    margin-top: -0.06rem;
+}
+.bg-primary{
+    background: #456ba4 !important;
+}
+.list-group-flush {
+    border-radius: 0;
+    margin-top: 0.1rem;
+}
+.login-container{
+    height: 40vh;
+    width: 85vh;
+    box-shadow: 0px 2px 8px 0px #456ba45e;
+    margin-top: 2rem;
+    border-radius: 1rem;
+}
+.login-container__header{
+    background: #456ba4;
+    padding: 0rem 9rem 0rem, 6rem;
+    margin: 0rem -0.8rem 0rem -0.8rem;
+    height: 3rem;
+    color:white;
+    border-radius: 1rem 1rem 0% 0%;
+    display: grid;
+    place-items: center;
+}
+.login-container__form{
+    width: 100%!important;
+    margin-top: 2rem;
+    color: #456ba4;
+    font-weight: bolder;
+}
+.login-container__form-control{
+    margin-bottom:1rem;
+    border: 1px solid #456ba466 !important;
+}
+.login-container__button{
+    background: #456ba4;
+    margin: 2rem 0.1rem 0 0;
+    border: none;
+    float: right;
+}
+
