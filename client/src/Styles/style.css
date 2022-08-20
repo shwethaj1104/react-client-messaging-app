@@ -6,16 +6,16 @@
 body{
     font-family: 'Lato', sans-serif;}
 .sidebar{
-    border: 0.2rem solid #17468dcc;;
+    border: 0.2rem solid #2a9d8f;;
     border-radius: 0.8rem;
 }
 .id_name{
     font-weight: bolder;
-    color:#17468dcc
+    color:#2a9d8f
 }
 .id_name_span{
     font-weight: bolder;
-    color:#17468dcc
+    color:#2a9d8f
 }
 .headings-bold{
     font-weight: bolder;
@@ -26,12 +26,12 @@ body{
     margin-inline: auto;
     margin-top: 1rem;
     margin: 1rem 1rem 0rem 1rem;
-    box-shadow: 0px 2px 8px 0px #17468dcc;
+    box-shadow: 0px 2px 8px 0px #2a9d8f;
     padding: 1rem;
     border-radius: 0.8rem;
 }
 .modal-header{
-    background: #17468dcc;
+    background: #2a9d8f;
     font-weight: bolder;
     font-size: larger;
     color: white;
@@ -43,37 +43,50 @@ body{
 .modal-create__button{
     float: right;
     margin-top: 1.5rem;
-    background: #17468dcc;
+    background: #2a9d8f;
+}
+.modal-create__button:hover{
+    color: black;
+    background-color: #5cc3bb;
 }
 .conversation-list {
     font-weight: bolder;
-    background: #17468d8c;
+    background: #009f92a3;
     color:white;
 }
 .contact-list {
     font-weight: bolder;
-    background: #17468dcc;
+    background: #2a9d8f;
     color:white;
 }
 .list-group-item.active{
-    background: #17468dcc;
+    background: #2a9d8f !important;
 }
 .new-buttons{
-    background: #17468dcc;
+    background: #2a9d8f;
     margin: 0.5rem;
     border-radius: 0.8rem;
     border:none;
 }
+.new-buttons:hover{
+    color: black;
+    background-color: #5cc3bb;
+}
 .nav-tabs .nav-link{
-    color:#17468dcc;
+    color:white;
 }
 .nav-tabs{
-    background: #456ba4;
+    background: #2a9d8f;
     border: none;
     margin-top: -0.06rem;
+    border-radius: 0.3rem 0.3rem 0rem 0rem;
+}
+.nav-tabs:hover{
+    background: #5cc3bb;
+    color: black;
 }
 .bg-primary{
-    background: #456ba4 !important;
+    background: #2a9d8f !important;
 }
 .list-group-flush {
     border-radius: 0;
@@ -82,12 +95,12 @@ body{
 .login-container{
     height: 40vh;
     width: 85vh;
-    box-shadow: 0px 2px 8px 0px #456ba45e;
+    box-shadow: 0px 2px 8px 0px #2a9d8f5e;
     margin-top: 2rem;
     border-radius: 1rem;
 }
 .login-container__header{
-    background: #456ba4;
+    background: #2a9d8f;
     padding: 0rem 9rem 0rem, 6rem;
     margin: 0rem -0.8rem 0rem -0.8rem;
     height: 3rem;
@@ -99,17 +112,21 @@ body{
 .login-container__form{
     width: 100%!important;
     margin-top: 2rem;
-    color: #456ba4;
+    color: #2a9d8f;
     font-weight: bolder;
 }
 .login-container__form-control{
     margin-bottom:1rem;
-    border: 1px solid #456ba466 !important;
+    border: 1px solid #2a9d8f66 !important;
 }
 .login-container__button{
-    background: #456ba4;
+    background: #2a9d8f;
     margin: 2rem 0.1rem 0 0;
     border: none;
     float: right;
+}
+.login-container__button:hover{
+    background: #2a9d8f9e;
+    color: black;
 }
 

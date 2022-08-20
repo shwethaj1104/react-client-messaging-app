@@ -43,7 +43,7 @@ export default function OpenConversations() {
               required
               value={text}
               onChange={e => setText(e.target.value)}
-              style={{ height: '75px', resize: 'none' }}
+              style={{ height: '75px', resize: 'none',bordercolor:'#009f92' }}
             />
             {/* <InputGroup.Append> */}
               <Button className='headings-bold nav-tabs' type="submit">Send</Button>
