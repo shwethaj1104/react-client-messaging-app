@@ -2,7 +2,7 @@
 
 About project: The messaging application is built on Reactjs and nodejs
 
-Here is the Application URL:https://chat-application-woad.vercel.app/
+Here is the Application URL:https://chat-application-woad.vercel.app/ 
 
 Technology used: Socket.io for server side connection- to connect multiple users
 
