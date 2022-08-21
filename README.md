@@ -23,8 +23,7 @@ Contacts Page:
 
 Create Conversation:
 
-![image](https://user-images.githubusercontent.com/107784718/180592734-3244284d-f024-4a8e-a050-4efdf7234d30.png)
-
+![image](https://user-images.githubusercontent.com/107784718/185787483-8882b7a8-a644-4264-ac4d-4527da5f1856.png)
 
 Conversation page:
 
