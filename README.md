@@ -1,7 +1,7 @@
 # react-client-messaging-app
 About project: The messaging application is built on Reactjs and nodejs
 
-Here is the Application URL:https://client-eight-lake.vercel.app
+Here is the Application URL:https://chat-application-woad.vercel.app/
 
 Technology used: Socket.io for server side connection- to connect multiple users
 
@@ -11,7 +11,7 @@ User can login with existing id, new user can create a id and login to the appli
 
 Landing page after creating new user:
 
-![image](https://user-images.githubusercontent.com/107784718/180592614-df96893e-c10f-471c-a609-2f998e7c54de.png)
+![image](https://user-images.githubusercontent.com/107784718/185787310-bdca0bc5-0155-4204-99d0-1452ba9a96ff.png)
 
 Create New Contact:
 
