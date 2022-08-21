@@ -71,12 +71,14 @@ body{
 .new-buttons:hover{
     color: black;
     background-color: #5cc3bb;
+    /* transform: scaleY(1.1); */
+    /* transition: all ease-in-out 1s; */
 }
 .nav-tabs .nav-link{
     color:white;
 }
 .nav-tabs{
-    background: #2a9d8f;
+    background: #2a9d8f !important;
     border: none;
     margin-top: -0.06rem;
     border-radius: 0.3rem 0.3rem 0rem 0rem;
