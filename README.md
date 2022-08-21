@@ -7,7 +7,7 @@ Technology used: Socket.io for server side connection- to connect multiple users
 
 Login page:
 User can login with existing id, new user can create a id and login to the application.
-![image](https://user-images.githubusercontent.com/107784718/180592461-748d0105-ffcc-4591-b369-c23c3f9cf5f7.png)
+![image](https://user-images.githubusercontent.com/107784718/185787266-7822b2ce-5969-4ff6-a576-8b0ca516401d.png)
 
 Landing page after creating new user:
 
