@@ -1,6 +1,6 @@
 # react-client-messaging-app
 
-About project: The messaging application is built on Reactjs and nodejs
+The messaging application is built on Reactjs and nodejs
 
 Here is the Application URL:https://chat-application-woad.vercel.app/ 
 
